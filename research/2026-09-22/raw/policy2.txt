@@ -1,0 +1,147 @@
+AI Features and Your Website | Google Search Central  |  Documentation  |  Google for Developers (https://developers.google.com/search/docs/appearance/ai-features)
+citeturn15search0 [wordlim: 200] Crawled: 9 months ago; # AI features and your websiteThis guide covers how AI features like AI Overviews and AI Mode work in Google Search from a site owner's perspective and how to approach your content's inclusion in these experiences.
+
+# AI features and your website
+
+This guide covers how AI features like AI Overviews and AI Mode work in Google Search from a site owner's perspective and how to approach your content's inclusion in these experiences.
+
+The best practices for SEO remain relevant for AI features in Google Search (such as AI Overviews and AI Mode). There are no additional requirements to appear in AI Overviews or AI Mode, nor other special optimizations necessary. That said, it's always good to review the fundamental SEO best practices.
+
+## How AI features work in Search
+
+As with Search overall, the AI features AI Overviews and AI Mode surface relevant links to help people find the information they're looking for quickly and reliably, as well as to help them explore content they may not have discovered before. These features offer unique opportunities for more types of sites to appear.
+
+AI Overviews help people get to the gist of a complicated topic or question more quickly, and provide a jumping off point to explore links to learn more. They were designed to show up on queries where they can add additional benefits beyond what people might already get on Search. With AI Overviews, people have been visiting a greater diversity of websites for help with more complex questions.
+
+AI Mode is particularly helpful for queries where further exploration, reasoning, or complex comparisons are needed. People can ask nuanced questions that might have previously taken multiple searches — from exploring a new concept, to comparing options, and beyond — and get a comprehensive AI-powered response with links to supporting websites.
+
+Both AI Overviews and AI Mode may use a "query fan-out" technique — issuing multiple related searches across subtopics and data sources — to develop a response. While responses are being generated, our advanced models identify more supporting web pages, allowing us to display a wider and more diverse set of helpful links associated with the response than with a classic web search, enabling new opportunities for exploration.
+
+AI Mode and AI Overviews may use different models and techniques, so the set of responses and links they show will vary. AI Overviews are only shown when our systems determine that it is additive to classic Search, and as such, often don't trigger.
+
+## How to appear in AI features
+
+You can apply the same foundational SEO best practices for AI features as you do for Google Search overall: making sure the page meets the technical requirements for Google Search, following Search policies, and focusing on the key best practices, such as creating helpful, reliable, people-first content.
+
+### Technical requirements for appearing in AI features
+
+To be eligible to be shown as a supporting link in AI Overviews or AI Mode, a page must be indexed and eligible to be shown in Google Search with a snippet, fulfilling the Search technical requirements. There are no additional technical requirements.
+
+Just because a page meets all requirements, best practices, and complies with the policies, doesn't mean that Google will crawl, index, or serve its content. 
+## Controlling your content in AI features in Search
+
+AI is built into Search and integral to how Search functions, which is why robots.txt directives for Googlebot is the control for site owners to manage access to how their sites are crawled for Search. To limit the information shown from your pages in Search, use `nosnippet`, `data-nosnippet`, `max-snippet`, or `noindex` controls.
+
+To limit AI training and grounding in some of Google's other systems, read more about Google-Extended.
+
+### Troubleshooting preview controls
+
+If you implemented preview controls and you're still seeing your content appear in AI features on Search, try the following steps:
+
+  1. Make sure that the preview control is correct and visible to Googlebot. To test if your implementation is correct, use the URL Inspection tool to see the HTML that Googlebot received while crawling the page.
+  2. Allow time for Google to recrawl and process the change in preview controls. Remember that crawling can take anywhere from several days to several months, depending on how often our systems determine a page needs to be refreshed. If you've made changes, you can request that Google recrawl your pages.
+
+If you tried the troubleshooting steps and still find issues, post in the Google Search Central Help Community.--------------------------------------------------------------------------------
+A new resource for optimizing for generative AI in Google Search  |  Google Search Central Blog  |  Google for Developers (https://developers.google.com/search/blog/2026/05/a-new-resource-for-optimizing)
+citeturn15search1 [wordlim: 200] Published: 4 months ago; Crawled: 4 months ago; As people increasingly gravitate to generative AI experiences and find information in new ways, we're publishing a new resource to help website owners, SEOs, and developers understand how to optimize their content for appearance in generative AI features in Search, and in turn Google Search overall.In the new guide, optimizing your website for generative AI features on Google Search, you'll find:
+
+# A new resource for optimizing for generative AI in Google Search
+
+Friday, May 15, 2026
+
+As people increasingly gravitate to generative AI experiences and find information in new ways, we're publishing a new resource to help website owners, SEOs, and developers understand how to optimize their content for appearance in generative AI features in Search, and in turn Google Search overall.
+
+In the new guide, optimizing your website for generative AI features on Google Search, you'll find:
+
+  * Guidance on the importance of providing valuable, unique, non-commodity content
+  * Tips about providing local, shopping, image, and video content
+  * Mythbusting common "AEO/GEO" misconceptions
+  * Initial guidance related to AI agents, a quickly emerging and evolving space
+  * Information about why SEO best practices remain relevant and foundational to success with our generative AI features
+
+We hope this guide provides more clarity to help you continue to create great content that reaches your audience effectively through Google Search. As always, if you have any feedback, share your comments on LinkedIn or post in the Google Search Central Community.
+
+Posted by John Mueller, Google Search--------------------------------------------------------------------------------
+Introducing Search Generative AI performance reports in Search Console  |  Google Search Central Blog  |  Google for Developers (https://developers.google.com/search/blog/2026/06/gen-ai-performance-reports)
+citeturn15search2 [wordlim: 200] Published: 3 months ago; Crawled: 3 months ago; The new Search Console reports are designed to give you dedicated views of your impressions within generative AI features on Search, such as AI Overviews and AI Mode, as well as generative AI features in Discover.This data is included in the overall performance report, where it will continue to be tracked to give site owners an overview of the overall visibility of their site in Google Search. ... We're continuing to work with website owners to understand what insights and data would be most helpful to inform their strategies, such as adding additional metrics over time.
+
+# Introducing Search Generative AI performance reports in Search Console
+
+Wednesday, June 3, 2026
+
+Note: As of August 31, 2026, we've rolled out these insights to all websites worldwide.
+
+Today, we're excited to announce the launch of new Search Generative AI performance reports in Search Console, including dedicated reports for Search and Discover, to help you understand your site's visibility within generative AI features on Search.
+
+The new Search Console reports are designed to give you dedicated views of your impressions within generative AI features on Search, such as AI Overviews and AI Mode, as well as generative AI features in Discover. This data is included in the overall performance report, where it will continue to be tracked to give site owners an overview of the overall visibility of their site in Google Search. Today, we are launching a separate view dedicated to visibility from generative AI features.
+
+We are rolling these reports out to a subset of websites, allowing us to thoroughly test them and receive feedback before making them widely available.
+--------------------------------------------------------------------------------
+Google's Guide to Optimizing for Generative AI Features on Google Search | Google Search Central  |  Documentation  |  Google for Developers (https://developers.google.com/search/docs/fundamentals/ai-optimization-guide?authuser=4&hl=en)
+citeturn15search3 [wordlim: 200] Crawled: 2 months ago; This guide is for website owners looking for official best practices from Google Search on how to succeed in generative AI features in Google Search (such as AI Overviews and AI Mode). ... As with Google Search overall, our generative AI search features can bring in relevant images and video, which means more opportunities for your website to appear beyond web page links.
+
+# Optimizing your website for generative AI features on Google Search
+
+User preferences are rapidly evolving and people are increasingly gravitating to generative AI experiences to help them find information. As we upgrade Search to meet these changing expectations, this transformation offers new opportunities to reach people who may be more inclined to engage with your site, spend more time with your content, or even convert by becoming a subscriber or making a purchase. This guide is for website owners looking for official best practices from Google Search on how to succeed in generative AI features in Google Search (such as AI Overviews and AI Mode).
+
+## Is SEO still relevant for generative AI search?
+
+In short, yes! The best practices for SEO continue to be relevant because our generative AI features on Google Search are rooted in our core Search ranking and quality systems. These features rely on AI techniques to highlight content from our Search index, such as:
+
+  * Retrieval-augmented generation (RAG): A technique (also known as grounding) used to improve the quality, accuracy, and freshness of AI responses by relying on our core Search ranking systems to retrieve relevant, up-to-date web pages from our Search index. --------------------------------------------------------------------------------
+Top ways to ensure your content performs well in Google's AI experiences on Search  |  Google Search Central Blog  |  Google for Developers (https://developers.google.com/search/blog/2025/05/succeeding-in-ai-search?authuser=01)
+citeturn15search4 [wordlim: 200] Published: 1.3 years ago; Crawled: 1.3 years ago; As a site owner, publisher, or creator, you may be wondering how to best succeed in our AI search experiences, such as AI Overviews and our new AI Mode. ... To learn even more, see our new help pages: AI features and your site and Google Search's guidance on using generative AI content on your website.
+
+# Top ways to ensure your content performs well in Google's AI experiences on Search
+
+Wednesday, May 21, 2025
+
+As a site owner, publisher, or creator, you may be wondering how to best succeed in our AI search experiences, such as AI Overviews and our new AI Mode. The underpinnings of what Google has long advised carries across to these new experiences. Focus on your visitors and provide them with unique, satisfying content. Then you should be well positioned as Google Search evolves, as our core goal remains the same: to help people find outstanding, original content that adds unique value. With that in mind, here are some things to consider for success in Google Search all around, including our AI experiences.
+
+## Focus on unique, valuable content for people
+
+People often ask how to make content that's "what Google wants". Our answer is that Google wants to show content that fulfills peoples' needs. Focus on making unique, non-commodity content that visitors from Search and your own readers will find helpful and satisfying. --------------------------------------------------------------------------------
+Latest Google Search Documentation Updates | Google Search Central  |  What's new  |  Google for Developers (https://developers.google.com/search/updates)
+citeturn15search5 [wordlim: 200] Crawled: 4 days ago; What: Updated the feature availability section of the preferred sources documentation to include AI Overviews and AI Mode. ... Notable new sections include guidance on the importance of providing non-commodity content, tips about providing local, shopping, image, and video content, mythbusting common "AEO/GEO" misconceptions, initial guidance on AI agents, and more information on why SEO best practices continue to be relevant for success in our generative AI features on Search. ... What: Added new documentation on AI features and your site and Google Search's guidance on using generative AI content on your website. ... What: Updated the Google StoreBot user agent (in Overview of Google crawlers) to use a placeholder version of Chrome. ... What: Added information about how site owners can opt out of display in the Place Entity feature in Page Insights.
+--------------------------------------------------------------------------------
+Funciones de IA y tu sitio web | Centro de la Búsqueda de Google  |  Documentation  |  Google for Developers (https://developers.google.com/search/docs/appearance/ai-features?hl=es)
+citeturn15search6 [wordlim: 200] Crawled: 8 months ago; Además de Search Console, también puedes hacer un seguimiento de las conversiones y del tiempo que se ha invertido en tu sitio con otras herramientas, como Google Analytics.
+--------------------------------------------------------------------------------
+Google Search Appearance | Google Search Central  |  Documentation  |  Google for Developers (https://developers.google.com/search/docs/appearance)
+citeturn15search7 [wordlim: 200] Crawled: 5 days ago; # Overview of Search appearance topicsThe topics in this section describe how you can influence how your website appears in Google Search.  * AI features
+--------------------------------------------------------------------------------
+Guide to Preferred Sources in Google Search for Web Publishers | Google Search Central  |  Documentation  |  Google for Developers (https://developers.google.com/search/docs/appearance/preferred-sources?authuser=993749347)
+citeturn15search8 [wordlim: 200] Crawled: 3 days ago; If you're a website owner, you can help your audience find your publication as a preferred source in Google Search. ... The preferred sources feature is available globally for the "Top Stories" feature in all languages where Google Search is available.Preferred sources can also appear in AI Mode and AI Overviews in all languages and locales where those features are available.
+--------------------------------------------------------------------------------
+Search and SEO Blog | Google Search Central  |  Google Search Central Blog  |  Google for Developers (https://developers.google.com/search/blog)
+citeturn15search9 [wordlim: 200] Crawled: 2 months ago; The Google Search Central Blog is where you can find official Google Search core algorithm updates, announcements of new Google Search features, and SEO best practices. ... Explore our official guidance on how your website can succeed in generative AI experiences on Google Search.
+--------------------------------------------------------------------------------
+Here's an update on our efforts to simplify the search results page  |  Google Search Central Blog  |  Google for Developers (https://developers.google.com/search/blog/2025/11/update-on-our-efforts)
+citeturn15search10 [wordlim: 200] Published: 10 months ago; Crawled: 10 months ago; As part of this effort, we regularly evaluate all of our existing features to make sure they're still useful, both for people searching on Google and for website owners. ... Posted by John Mueller, Search Advocate, Google Switzerland
+--------------------------------------------------------------------------------
+Google's Guide to Optimizing for Generative AI Features on Google Search | Google Search Central  |  Documentation  |  Google for Developers (https://developers.google.com/search/docs/fundamentals/ai-optimization-guide)
+citeturn15search11 [wordlim: 200] Crawled: 2 months ago;   * Meet the Search technical requirements: To be eligible to be shown in generative AI features on Google Search, a page must be indexed and eligible to be shown in Google Search with a snippet, fulfilling the Search technical requirements. ... That said, working on SEO with a website that uses JavaScript frameworks is generally more complex than when working with other kinds of websites.
+--------------------------------------------------------------------------------
+partnered 
+with
+Case study
+Business Messages 
+help (https://developers.google.com/business-communications/business-messages/files/bajaj-auto-case-study.pdf)
+citeturn15search12 [wordlim: 200] Published: 1.3 years ago; period meant the AI-powered platform could greet ... Bajaj Auto’s website engaged over 34,000 users and ... discover which features of the Pulsar 125 resonated most. ... combines entry points on Google Maps, Search, and brand-owned
+--------------------------------------------------------------------------------
+partnered with (https://developers.google.com/static/business-communications/business-messages/files/federal-bank-case-study.pdf)
+citeturn15search13 [wordlim: 200] Published: 2.1 years ago; Federal Bank had tested over 30 conversational AI providers ... through the Google Search entry point ... assistant on Federal Bank’s website that understood ... Google and the Google logo are trademarks of Google LLC.
+--------------------------------------------------------------------------------
+partnered with (https://developers.google.com/static/business-communications/business-messages/files/popeyes-supplements-case-study.pdf)
+citeturn15search14 [wordlim: 200] Published: 10 months ago; AI chatbot, which was fueled by a product search and recommendationfeature integrated with Popeye’s Shopify Plus E-commerce platform. ... Google Search, Google Maps, and the Popeye’s website, online
+--------------------------------------------------------------------------------
+Case study
+Business Messages improves 
+TEDi pre-sa (https://developers.google.com/business-communications/business-messages/files/tedi-case-study.pdf)
+citeturn15search15 [wordlim: 200] Published: 10 months ago; search for us on Google Maps. ... Airy, TEDi can also implement new features as soon as they become ... Google and the Google logo are trademarks of Google LLC.
+--------------------------------------------------------------------------------
+Case study
+Business Messages helps 
+North Carolina (https://developers.google.com/static/business-communications/business-messages/files/tango-technology-case-study.pdf)
+citeturn15search16 [wordlim: 200] Published: 10 months ago; though Google Search ... feature from Business Messages that helps set up AI-powered ... Google and the Google logo are trademarks of Google LLC.
+

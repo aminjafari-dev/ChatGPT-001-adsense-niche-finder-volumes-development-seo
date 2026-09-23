@@ -1,0 +1,234 @@
+Fix Uneven Selvedges in Handweaving – Handweavers Pattern Book (https://handweaverspatternbook.com/fix-uneven-selvedges/)
+citeturn1search0 [wordlim: 200] Published: 2 months ago; Crawled: 2 days ago; # Fix Uneven Selvedges in Handweaving ... This traces back to uneven warp winding, threads slipping at the back beam, or edge ends that need a little extra tension. ... A floating selvedge is an edge warp end threaded through the reed but not through any heddle, so it stays in the middle of every shed.
+
+# Fix Uneven Selvedges in Handweaving
+
+## Fix Uneven Selvedges in Handweaving
+
+  * by
+  * in Uncategorized
+  * on July 12, 2026
+
+Ragged, looping, or pulled-in selvedges are the most common frustration for newer weavers and plenty of experienced ones too. This article explains what actually causes bad edges, how to fix each cause, and the handling habits that produce clean selvedges without special gadgets. You will finish able to diagnose your own edge problems by sight.
+
+## Why selvedges misbehave
+
+A selvedge is where the weft turns and comes back. Every problem there is a tension problem: either the weft is pulled too tight at the turn, left too loose, or the edge warp threads are not held at the same tension as the rest of the warp. Naming which of these is happening is the whole job.
+
+## The three main faults and their causes
+
+### Draw-in: cloth narrows and edges pull tight
+
+Draw-in happens when the weft is tensioned too hard as it crosses the shed, dragging the edge warps inward. Some draw-in is normal, but severe narrowing frays the outer threads because they abrade against the reed. The root cause is throwing the shuttle and beating without leaving enough weft angle in the shed.
+
+### Loops: little tails of slack weft at the edge
+
+Loops are the opposite: too much slack weft left at the turn. They usually come from inconsistent shuttle handling, changing your hand position, or beating before the weft has settled at the correct angle.
+
+### Sagging or floating edge threads
+
+When the outermost warp ends sit looser than the body of the warp, they do not bind properly and the edge looks slack and messy. This traces back to uneven warp winding, threads slipping at the back beam, or edge ends that need a little extra tension.
+
+## The single most useful fix: weft angle
+
+Before beating, place each pick at an angle across the shed rather than straight and tight. A 20 to 30 degree angle, or a gentle arc (called bubbling), gives the weft enough length to travel over and under the warp during take-up. Too little angle causes draw-in; too much causes loops. Getting this consistent solves the majority of edge problems on its own.
+--------------------------------------------------------------------------------
+7 practical tips for the perfect selvedge: A weaver's guide when weaving a scarf on a rigid heddle loom (https://www.tabbyandtweed.co.uk/post/7-practical-tips-for-the-perfect-selvedge-a-weavers-guide-to-weaving-on-a-rigid-heddle-loom)
+citeturn1search1 [wordlim: 200] Published: 1.6 years ago; Crawled: today; # 7 practical tips for the perfect selvedge: A weaver's guide when weaving a scarf on a rigid heddle loom ... A wobbly, uneven or pulled in selvedge can spoil what would otherwise have been a beautiful handwoven scarf. ... ## Getting a good warp tension on your rigid heddle weaving loom
+
+# 7 practical tips for the perfect selvedge: A weaver's guide when weaving a scarf on a rigid heddle loom
+
+Image: Writer: Emma and Gillian
+
+Emma and Gillian
+
+Feb 18, 2025
+
+5 min read
+
+Updated: Feb 17
+
+## Introduction - why a selvedge matters when weaving a scarf on a rigid heddle loom
+
+The selvedge is the finished sides of a woven fabric running along each of the sides. When weaving a scarf on a rigid heddle loom, achieving a neat and even selvedge is important. Creating a neat selvedge is often something new weavers find difficult. A wobbly, uneven or pulled in selvedge can spoil what would otherwise have been a beautiful handwoven scarf. This blog discusses the causes of an uneven selvedge and provides some suggestions and hints on how to perfect your technique.
+
+## When does a neat selvedge not matter
+
+Having said that a neat selvedge is important, there are times when having a neat edge doesn't matter. This is when the fabric that is being woven is being used as a sewing fabric which will be cut up into pieces. Where this is the case the selvedge will always be sewn or cut off and will be invisible in the final garment.
+
+## Choosing the right yarn for a perfect selvedge when weaving
+
+Weaving with different yarns in the weft can result in an uneven selvedge. This is particularly the case if the make up of the different weft yarns varies with weft stripes of more than a few cm. Where this is the case differential shrinkage across the fabric can occur on finishing. This can create weft stripes of different widths leading to wobbly edges. This can occur when using hand spun yarn and our blog on weaving with hand spun yarn gives some suggestions on weaving with this type of yarn which will help to avoid this issue. Click to read the blog here.
+
+## Getting a good warp tension on your rigid heddle weaving loom
+
+Setting up a rigid heddle weaving loom with a good warp tension is perhaps the most important part of the weaving process. A loom without a good warp tension creates all manner of issues which go beyond the weaving of a neat selvedge. At that point the weft thread should be let go, releasing this tension on the outermost warp thread before the beating process.
+
+## Beating evenly across the warp
+
+Holding the heddle with two hands and pulling the heddle down the weave horizontally or parallel to the front of the loom is the ideal scenario. Using one hand to beat makes it very difficult to move the heddle down at the correct angle which can result in one side of the selvedge being beaten down too vigourously with the other side not being beaten enough.
+
+## Adjusting the weft angle for correct draw in
+
+Laying the weft thread in the shed at an angle is a really important step. The wider the weave the more the angle needs to be. This is required because the weft thread doesn't just go across the weave. The weft thread goes up and over each warp thread so in effect is travelling further than just across the width of the weave. If the weft is laid down straight across, the thread is simply not long enough and the result of this is the drawing in of the weave at the edges and a cramped selvedge.
+--------------------------------------------------------------------------------
+How to Fix Warp Tension Issues on Rigid Heddle Looms - Gist Yarn (https://www.gistyarn.com/blogs/how-to-weave/how-to-fix-warp-tension-issues-on-rigid-heddle-looms)
+citeturn1search2 [wordlim: 200] Crawled: 2 months ago; * # How to Fix Warp Tension Issues on Rigid Heddle Looms ... While the know-how I offer is specifically geared towards the rigid-heddle weaver, a lot of these pearls pertain to all weaving. ... The most common area we see slack is at the selvedges.
+
+If a specific area loses tension, you can use a small piece of cardboard to use as a shim under that area on the front or back beam. The shim will have to be moved each time you advance. You may find that you only need it temporarily and the tension will right itself after you advance.
+
+The most common area we see slack is at the selvedges. This can be caused by either your packing material being too soft, too short, or by draw-in. 
+
+If your packing material isn’t wide or sturdy enough, it will cause the warp to fold down at the edges as it winds around the back beam. To prevent this, be sure your paper is at least two inches, preferably four inches, wider than your warp.
+
+Before you shim the selvedge area, be sure that it is actually a tension issue. If your warp is starting to “smile” at you with the edges growing at a faster rate than the middle, try giving yourself more slack in the weft by increasing your weft angle or bubble. 
+
+### Layers
+
+Most commonly, it is the slotted shed layer that goes a bit slack. --------------------------------------------------------------------------------
+Window Screen Repair DIY: A Colorado Homeowner's Guide (https://cultivatehd.com/window-screen-repair-diy/)
+citeturn1search3 [wordlim: 200] Published: 4 months ago; Crawled: last month; Image: A DIY window screen repair kit including mesh roll, spline, utility knife, scissors, and a tape measure. ... Leave the mesh too loose, and the next round of wind can make it flap, wrinkle, or pop loose at a corner. ... For homeowners weighing repair cost against appearance, this breakdown of new window screen costs and replacement options helps clarify when replacing the frame is the cleaner long-term choice.
+Pull too hard, and the frame can bow. Leave the mesh too loose, and the next round of wind can make it flap, wrinkle, or pop loose at a corner.
+
+Start at one corner and work around the frame with steady pressure on the spline roller. Keep one hand on the mesh to guide it flat instead of tugging it tight. If diagonal waves start forming, stop and back up before you lock in the whole side. A small correction early saves a full redo.
+
+> If you have to force the spline or pull hard to chase out wrinkles, something is off. Usually it is the mesh alignment, the spline size, or a frame that is starting to bend.
+
+DIY rescreening often slows down at the corners. That is normal. A first attempt can still come out clean, but it rarely goes as fast as the videos make it look. If you are working through a stack of sun-faded screens before a stormy weekend, that is the point where many homeowners decide their time is worth more than the learning curve. That is also why some people hand the job to a local service like Cultivate House Detailing when they want consistent tension and a cleaner finished look across every window.
+--------------------------------------------------------------------------------
+How to Rescreen Window Screens: DIY Step-by-Step Guide - Blog (https://www.ritescreen.com/blog/post/how-to-rescreen-window-screens.html)
+citeturn1search4 [wordlim: 200] Published: 6 months ago; Crawled: 3 weeks ago; When the window screen starts sagging, tearing, or letting bugs slip through, many homeowners assume the entire screen needs to be replaced. ... Reusing old spline is one of the most common reasons newly rescreened windows feel loose. ... Cutting excess mesh too early  | The mesh can slip out of the channel before tension is locked in  | Trim the mesh only after all splines are fully seated ... Removing the spline and reinstalling it evenly is usually quicker (and more effective) than trying to tighten one corner at a time.
+Using an old or incorrect spline  | Old spline loses elasticity, and the wrong size won’t grip the mesh properly  | Always replace the spline and match the diameter to your frame’s channel
+Pulling the mesh too tight  | Excess tension can bow the frame or cause the mesh to tear over time  | Keep the mesh flat, not stretched; let the spline create the tension
+Uneven tension around the frame  | Causes ripples, waves, or loose corners  | Install the spline on the opposite sides first, then finish the remaining edges
+Cutting excess mesh too early  | The mesh can slip out of the channel before tension is locked in  | Trim the mesh only after all splines are fully seated
+
+ 
+
+If a newly rescreened window looks wavy or feels loose, don’t panic. Removing the spline and reinstalling it evenly is usually quicker (and more effective) than trying to tighten one corner at a time.
+
+## Fixing Window Screens vs. Full Replacement
+
+Once you’ve identified an issue, the next question is whether rescreening will solve the problem or if replacing the entire screen makes more sense. --------------------------------------------------------------------------------
+How to Replace a Window Screen – DIY Homeowner HQ (https://diyhomeownerhq.com/window-screen/)
+citeturn1search5 [wordlim: 200] Crawled: 6 days ago; Find the end of the spline in one corner of the frame. ... Make sure the frame hasn’t separated or become loose while you were removing the old screen. ...   * Cutting the finished mesh too close to the inside of the spline. ... Can I reuse the old window screen spline? ... A very minor bend may be repairable, but a badly bent or twisted frame can prevent the screen from fitting the window correctly.
+## If Something Goes Wrong
+
+Problem: The screen is wrinkled after installing the spline.
+
+The mesh probably wasn’t positioned evenly before it was secured. Pull the spline back out from the affected section, smooth the mesh, and reinstall the spline. You usually don’t need to remove everything.
+
+Problem: The screen frame bows inward.
+
+The mesh was likely pulled too tightly. Remove the spline from one or more sides and reinstall the mesh with less tension. The screen should be snug, not stretched like a drum.
+
+Problem: The spline won’t fit into the groove.
+
+Check the spline diameter. If the new spline is noticeably thicker than the original, you may have the wrong size.
+
+Don’t force oversized spline into the channel. You can damage the frame or make future screen replacement much harder.
+
+Problem: The spline keeps popping back out.
+
+The spline may be too small, the groove may contain debris, or the old spline may have become stretched.
+
+Clean the groove and try again. If the spline still won’t stay seated, compare its diameter with the original and replace it if necessary.
+--------------------------------------------------------------------------------
+Window Screen Repair: Torn Mesh, Bent Frames and Fit Checks (https://abc-home.co.uk/repairing-damaged-window-screens-replacing-torn-mesh-and-adjusting-frames/)
+citeturn1search6 [wordlim: 200] Published: 1.5 years ago; Crawled: today; Image: Photo-infographic showing window screen repair checks for mesh, frame, fit and safe access Window screen repair starts by separating mesh damage from frame damage and poor fit. ... Mesh pulling out at one side  | Re-seat with the correct spline and tension  | Too much tension can bow a light frame. ... Use when the frame is bent, corner keys are loose, the panel is out of square or the screen no longer sits in the window properly.
+--------------------------------------------------------------------------------
+Fix Rigid Heddle Loom Tension: Quick Guide to Even Warp — The Rigid Heddle Loom (https://logzly.com/rigidloomweaver/fix-rigid-heddle-loom-tension-quick-guide-to-even-warp)
+citeturn1search7 [wordlim: 200] Published: 2 months ago; Crawled: last month; Struggling with uneven warp and puckered fabric on your rigid heddle loom?Follow these simple steps to diagnose and fix rigid heddle loom tension issues fast, so you can weave smooth, even fabric every time.
+--------------------------------------------------------------------------------
+How to Re-Screen a Window or Door Tightly - Engineer Fix (https://engineerfix.com/how-to-re-screen-a-window-or-door-tightly/)
+citeturn1search8 [wordlim: 200] Published: 8 months ago; Crawled: last month; # How to Re-Screen a Window or Door Tightly ... The difference between a lasting, professional-looking repair and a sloppy, temporary fix is entirely determined by the amount of tension applied to the new mesh. ... Using a spline that is marginally too small will not securely hold the screen under high tension, leading to slippage and eventual sagging after installation. ... As the spline roller approaches a corner, use a small, flat tool or the tip of a screwdriver to gently push the screen material down into the corner pocket before rolling the spline over it. ... The blade should be carefully guided along the outside edge of the newly seated spline, making a clean, precise cut that leaves no frayed or loose edges.
+--------------------------------------------------------------------------------
+Avoiding—and Fixing—Mistakes on the Rigid-Heddle Loom | Little Looms (https://littlelooms.com/team-colors-weave-along-avoiding-fixing-mistakes/)
+citeturn1search9 [wordlim: 200] Published: 1.3 years ago; Crawled: 2 days ago; Learn how to fix broken warp threads, keep your selvedges straight, juggle multiple shuttles, and more! ... Image: Woven napkins with a ball of yarn, scissors, and flower.Elisabeth Hill has plenty of experience weaving rigid-heddle cloth, including the Snappy Napkins shown here. ... I will often gently hold tension on the outermost selvedge thread while setting my weft to ensure that the shed gap is closed without draw-in or looping.  * Don’t ignore excessive draw-in, because it can cause an uneven beat (draw-in creates more resistance for your heddle), as well as abrasion and possible warp breakage.
+--------------------------------------------------------------------------------
+Weft tension on warp-faced band weaving is loose in middle (https://www.reddit.com/r/weaving/comments/1wbmc7u/weft_tension_on_warpfaced_band_weaving_is_loose/)
+citeturn1reddit12 [wordlim: 200] Published: last week; (Initially I tried this using the backstrap pieces that came with the kit, but I couldn't get the warp tension right because I don't have anything ergonomical to tie the strap to, so I rigged it up on my rigid heddle so I could weave on my lap. ...   Also forgot to add about uneven selvedges. ... Your rigid heddle is so close to the weaving that it’s pulling the warp threads really far apart.
+--------------------------------------------------------------------------------
+Is It Worth Repairing a Bent Window Screen Frame? - Advanced Window & Glass Repair (https://advancedwindowglassrepair.com/is-it-worth-repairing-a-bent-window-screen-frame/)
+citeturn1search10 [wordlim: 200] Published: 4 months ago; Crawled: 2 weeks ago; Achieving correct mesh tension without proper spline rolling tools results in a loose or wrinkled mesh that allows gaps at the frame edges. ... Vinyl frames are better replaced in most cases because the material is too brittle to straighten reliably without risk of cracking.When the frame has creased, cracked at a corner, or been bent multiple times, replacement is the more cost-effective decision. ... Advanced Window & Glass Repair handles screen assessment, repair, and replacement across Northern Virginia, DC, and Maryland as part of broader window maintenance work.
+--------------------------------------------------------------------------------
+Tips for weaving the selvedge edge of a log cabin design when using a rigid heddle loom - how to manage the two shuttles. (https://www.tabbyandtweed.co.uk/post/tips-for-weaving-the-selvedge-edge-of-a-log-cabin-design-when-using-a-rigid-heddle-loom-how-to-man)
+citeturn1search11 [wordlim: 200] Published: 1.7 years ago; Crawled: last month; # Tips for weaving the selvedge edge of a log cabin design when using a rigid heddle loom - how to manage the two shuttles. ... This means that when weaving on a rigid heddle loom the shuttle does not always weave the outermost warp thread.
+--------------------------------------------------------------------------------
+Rigid Heddle Warp Tension Question (https://www.reddit.com/r/weaving/comments/1uegny5/rigid_heddle_warp_tension_question/)
+citeturn1reddit13 [wordlim: 200] Published: 2 months ago; I just got a 24" Ashford rigid heddle loom, so I'm working with the 7.5epi heddle that it comes with. ... Some of the issue may be uneven beating, not warp tension. ... For example:  Recently I used my Varident reed/heddle, which has short sections of varying DPI that can be mixed and matched to weave a cotton project.
+--------------------------------------------------------------------------------
+I'm making a list and I'm checking it twice... (https://manuals.plus/m/db20de22ddf2b6a9270dad9533351be1b9862908f18c6160ef00f419f7e0c316.pdf)
+citeturn1search14 [wordlim: 200] Published: 12.9 years ago; Selvedges ... with uneven tension. ... faced weave: a very tight warp and a ... ton, is a master at weaving on a rigid ... for the Rigid Heddle Loom.
+--------------------------------------------------------------------------------
+Weaving Tips and Tricks (https://portlandhandweaversguild.org/archive/wp-content/uploads/2020/08/Weaving-Tips-and-Tricks.pdf)
+citeturn1search15 [wordlim: 200] Published: 7 months ago; Rigid Heddle Looms ... While weaving ... For broken warp thread or to help with uneven tension, you can use a bobbin with a rubber ... Another method of a repairing a warp thread or for a ﬂoating selvedge, is to use two empty
+--------------------------------------------------------------------------------
+selevdge help! (https://www.reddit.com/r/weaving/comments/1jqk9yx)
+citeturn1reddit16 [wordlim: 200] Published: 1.5 years ago; Crawled: 1.5 years ago; i’ve started my first official project of houndstooth towels (courtesy of rigid heddle weaving in brisbane on youtube). i’m enjoying it so far but keep get frustrated with my selvedges. any tips? ... This is probably an issue due to uneven tension on the selvedges (super common in RH looms).
+--------------------------------------------------------------------------------
+Terrible rigid heddle loom weaving, my second attempt at using anything but a peg loom. Please could someone trouble shoot me! How do I even out my tension? Or do I just need more practice? (https://www.reddit.com/r/weaving/comments/p2cmue)
+citeturn1reddit17 [wordlim: 200] Published: 5.1 years ago; Crawled: 5.1 years ago; Selvedge edges get cleaner the more you weave and, honestly, I seem to get the best edges when I forget about them as I'm weaving. ... It may be an angle of the camera/photo, but it looks like the fell line (the last line of weaving closest to the rigid heddle) is not parallel to the loom. ... There are multiple things that can cause this - uneven tension on the warp (tighter on one side and looser on the other), beating at an angle (are you holding the heddle in the middle to beat?
+--------------------------------------------------------------------------------
+Warp
+
+**Sett:** Thread, reed, and sleying must all (https://www.oldscollege.ca/_media/master_weavers_student_handbook-2023.pdf)
+citeturn1search18 [wordlim: 200] Published: 3.6 years ago; Crawled: 3.6 years ago; **Tension:** To produce good weaving, the weaver must start with a good warp. ... Evidence of uneven tension will result in marks being deducted. ... **Selvedges** should be even, without weft loops, or with the weft drawn in too tightly so that breakage occurs.
+--------------------------------------------------------------------------------
+Beginner - Rigid Heddle Shed (https://www.reddit.com/r/weaving/comments/187zdxi)
+citeturn1reddit19 [wordlim: 200] Published: 2.8 years ago; Crawled: 2.8 years ago; Doing another experiment on my new rigid heddle and I’m consistently having problems with my shed in the down position. ...     The down position is correct - in the Knitter's Loom the tension of the warp is what holds the heddle in the down position, so it's pulling up against the bottom notch, meaning the gap at the top isn't an issue.    Regarding your shed issues, I suspect it's uneven warp tension looking at how all the slot threads are at slightly different heights in down shed, OR sticky threads depending what fibre you're using.
+--------------------------------------------------------------------------------
+Rx: Uneven Warp Tension (https://www.datocms-assets.com/75077/1687811600-handwoven-may-june-1982.pdf)
+citeturn1search20 [wordlim: 200] Published: 13.0 years ago; Crawled: 12.9 years ago; Rx: Uneven Warp Tension ... For in double weave the bottom layer shed involves so many more ends that uneven tension will make accurate weaving difficult. ... And if the selvedges are loose, it is impossible to achieve evenly woven “turns” if producing tubular or double width fabric.
+--------------------------------------------------------------------------------
+Microsoft Word - WINDOW REPAIR, SCREENS 05F (https://www.hrrc-ch.org/wp-content/uploads/2012/07/SCREEN-REPLACEMENT.pdf)
+citeturn1search21 [wordlim: 200] Published: 15.3 years ago; Using an old screwdriver, dig up one corner of the old splining out of the channel, and gently remove it without tearing or stretching. ... If the window is long and narrow, cut the spline so you can install the two short sides first; for square windows, the spline can be installed in one piece. ... If the replacement screen is metal, crease the screen and push it into the channel on all four sides (see Illustration 2), using the convex wheel of the splining tool (the one with the edge that bulges out). ... ©2011, Home Repair Resource Center, 2520 Noble Rd., Cleveland Hts., OH 44121 (phone: 216-381-9560)
+--------------------------------------------------------------------------------
+Getting even warp tension (https://www.reddit.com/r/weaving/comments/1bd63zt)
+citeturn1reddit22 [wordlim: 200] Published: 2.5 years ago; Crawled: 2.5 years ago; I‘m relatively new to weaving and I‘m dealing with tension issues on my 70cm rigid heddle loom (Ashford Knitters Loom). ...   I just started weaning on a rigid heddle loom at the end of December. ... But without them, that might be challenging since it’s already uneven and wound on without warp separators.
+--------------------------------------------------------------------------------
+Uneven tension (https://www.reddit.com/r/weaving/comments/17q74xi)
+citeturn1reddit23 [wordlim: 200] Published: 2.9 years ago; Crawled: 2.9 years ago; I'm a relatively new weaver and I'm using a wool warp on a rigid heddle loom. ... You can also get tension issues if you accidentally catch and snag the warp with the tip of the shuttle and pull on them, or if your tension is off (look up 'smiling' or 'frowning' selvedges). ...   A photo would really help to work out why your edge threads have loosened - if it was early in the weaving maybe your knots on the apron rod loosened up, or the tension wasn't quite even to start with and it got more obvious as you went on.
+--------------------------------------------------------------------------------
+Why Do the Edges of Rigid Heddle Projects Often Look Irregular? (https://www.reddit.com/r/weaving/comments/1fqc9jk)
+citeturn1reddit24 [wordlim: 200] Published: 2.0 years ago; Crawled: 2.0 years ago; **I’ve recently started exploring rigid heddle weaving, and I’ve noticed that the edges of many projects I've come across tend to look a bit uneven and irregular. ... In addition to what other people have said about rigid heddle weavers often working with thicker yarns and being less experienced on average, I think shaft loom weavers have a lot more leeway to take pictures without the selvedges or pictures which distract you from the selvedges!
+--------------------------------------------------------------------------------
+First time weaving ever! Using a rigid heddle loom. Learned that warping takes 900 years. Made a 100 mistakes. Does anyone have any tips for continuing multiple colors up the side? The left side of my project was bit cringe. Inspired to start weaving due to unhealthy fascination with tartan. (https://www.reddit.com/r/weaving/comments/ixvb4w)
+citeturn1reddit25 [wordlim: 200] Published: 6.0 years ago; Crawled: 3.8 years ago; Tip: You're weaving too close to the heddle and should advance your warp more often.When your warps angle upward that steeply, you can get tension issues and wonky selvedges. ...     You can do 2/2 twill or any four-shaft weave on a rigid heddle loom, using a couple of extra heddles: URL
+--------------------------------------------------------------------------------
+warping snafu question (https://www.reddit.com/r/weaving/comments/188lyec)
+citeturn1reddit26 [wordlim: 200] Published: 2.8 years ago; Crawled: 2.8 years ago; I have about 24" of a new project and the warp tension was fine, until it wasn't. ... Not sure what type of loom you’re using, but in my rigid heddle, I’ve had it happen that warp threads in the edges have gotten snagged on gears or handles while winding-on ... Also, when you reach the ends, if they are very uneven that also tells you, before you even start weaving, that something went off.
+--------------------------------------------------------------------------------
+Heddle (https://en.wikipedia.org/wiki/Heddle)
+citeturn1search27 [wordlim: 200] Crawled: 2.0 years ago; The warp is threaded through heddles on different shafts in order to obtain different weave structures. ... Alternating warp threads pass through a heddle, as in a rigid heddle loom. ... Among hand woven African textiles, single-heddle looms are in wide use among weaving regions of Africa.
+--------------------------------------------------------------------------------
+Warp tension issues - Rigid heddle loom (https://www.reddit.com/r/weaving/comments/1k2w6ux)
+citeturn1reddit28 [wordlim: 200] Published: 1.4 years ago; Crawled: 1.4 years ago; I'm new to weaving on a rigid heddle loom and having trouble getting my warp tension consistent when I change the yarn partway through the warp - to change colors.
+--------------------------------------------------------------------------------
+Loose warp and the end (https://www.reddit.com/r/weaving/comments/ws3jyx)
+citeturn1reddit29 [wordlim: 200] Published: 4.1 years ago; Crawled: 4.1 years ago; If you direct warp your loom, that side might have warp threads that have gone the longest direction to the peg and back. ... I have very minimal experience with a rigid heddle but on my floor looms, I usually get loose threads on the side if I am pulling my selvedges too tight.
+--------------------------------------------------------------------------------
+HELPFUL HINTS (https://www.harmonique.ca/wp-content/uploads/2021/08/learn_to_weave_on_the_table_loom.pdf)
+citeturn1search30 [wordlim: 200] Published: 6.6 years ago; Crawled: 6.6 years ago; *The key to successful weaving is to wind the warp on the back roller with an even tension. ... *Check both selvedges roll on with even tension. ... Black-and-white instructional diagram showing a broken warp thread repair: warp threads at top, a yarn threaded through heddle eye/reed dent, tied in a figure-eight around a pin, with a small weight hanging from the yarn end.
+--------------------------------------------------------------------------------
+Loom (https://en.wikipedia.org/wiki/Loom)
+citeturn1search31 [wordlim: 200] Crawled: 4 months ago; A single rigid heddle can hold all the warp threads, though sometimes multiple rigid heddles are used. ... In practice, fairly unbalanced tie-ups just make the shed a bit smaller, and as the shed on a counterbalance loom is adjustable in size and quite large to start with (compared to other types of loom), so it is entirely possible to weave good cloth on a counterbalance loom with unbalanced heald frames, unless the loom is extremely shallow (that is, the length of warp being pulled on is short, less than 1 meter or 3 feet), which exacerbates the slightly uneven tension. ... Uneven tension makes weaving evenly harder.
+--------------------------------------------------------------------------------
+Telaio a pettine liccio (https://it.wikipedia.org/wiki/Telaio_a_pettine_liccio)
+citeturn1search32 [wordlim: 200] Crawled: 10 months ago; Rigid heddle weaving - Interweave Press 1987 ISBN 0-934026-25-4
+--------------------------------------------------------------------------------
+Spline roller (https://en.wikipedia.org/wiki/Spline_roller)
+citeturn1search33 [wordlim: 200] Crawled: 1.9 years ago; A screen roller or spline roller is a small hand tool used to press screen mesh into the edges of a window frame that is fluted on the inner edges, or to press in the retainer spline that holds that mesh in place.
+--------------------------------------------------------------------------------
+Shed (weaving) (https://en.wikipedia.org/wiki/Shed_%28weaving%29)
+citeturn1search34 [wordlim: 200] Crawled: 6 months ago; Originally there was no shed, and the weft was inserted into the warp by picking the warp threads up individually, as is done in tapestry weaving. ... It was a rod inserted into the warp to ease in weaving, and came about at the same time as the heddle. ... After the shed-rod came the rigid heddle loom, where the shed is created by raising or lowering the rigid heddle.
+--------------------------------------------------------------------------------
+Pin weaving (https://en.wikipedia.org/wiki/Pin_weaving)
+citeturn1search35 [wordlim: 200] Crawled: 1.6 years ago; Partway through stage four of a tabby weave, on a commercial loom.Weaving a twill; no counter-warp. ... Note that an even pin spacing gives an uneven yarn spacing; pins clustered in threes produce an even yarn spacing.
+--------------------------------------------------------------------------------
+Continuum and discrete models for unbalanced woven fabrics (https://arxiv.org/abs/1509.05012)
+citeturn1academia36 [wordlim: 200] Published: 11.0 years ago; In this paper it is shown that in the unbalanced fabrics the different bending stiffnesses of the warp and weft yarns produce macroscopic effects that are extremely visible as, for example, the asymmetric S-shape during a Bias Extension Test (BET).We propose to introduce a constrained micromorphic model and a discrete model that are able to account for i) the angle variation between warp and weft tows, ii) the unbalance in the bending stiffness of the yarns and iii) the relative slipping of the tows.
+--------------------------------------------------------------------------------
+Bias extension test on an unbalanced woven composite reinforcement: Experiments and modeling via a second-gradient continuum approach (https://arxiv.org/abs/1604.04298)
+citeturn1academia37 [wordlim: 200] Published: 10.5 years ago; Title: Bias extension test on an unbalanced woven composite reinforcement: Experiments and modeling via a second-gradient continuum approach ... A constitutive expression for the strain energy density is introduced to account for i) in-plane shear deformations, ii) highly different bending stiffnesses in the warp and weft directions and iii) fictive elongations in the warp and weft directions which eventually describe the relative sliding of the yarns.
+

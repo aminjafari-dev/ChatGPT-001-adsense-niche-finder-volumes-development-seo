@@ -1,0 +1,58 @@
+How To Choose The Right Size Of Screen Spline | Phifer (https://www.phifer.com/screening/diy/sizing/)
+citeturn23view0 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://www.phifer.com/screening/diy/sizing/","lineno":null}); Total lines: 129
+L0: cite0†iframe†www.googletagmanager.com L1: 
+L2:   * cite1†Products L3:     * cite2†SheerWeave Interior Roller Shade Fabrics L4:       * cite3†Browse Products L5:       * cite4†Resources L6:       * cite5†Contact Us L7:     * cite6†DIY Screening L8:       * cite7†Where to Buy L9:       * cite8†Screening Quiz†screening.phifer.com L10:       * cite9†Blogs L11:     * cite10†Pool & Patio Screening L12:       * cite11†Browse Products L13:       * cite12†Where To Buy L14:       * cite13†FAQs L15:     * cite14†Window & Door Screening L16:       * cite15†Browse Products L17:       * cite16†Where To Buy L18:       * cite13†FAQs L19:     * cite17†Exterior Sun Control Fabrics L20:       * cite18†Browse Products L21:       * cite4†Resources L22:       * cite19†Contact Us L23:     * cite20†Outdoor Furniture Fabrics L24:       * cite21†Browse Products L25:       * cite22†Where To Buy L26:       * cite23†Fabric Visualizer L27:     * cite24†Engineered Woven Products L28:       * cite25†Contact Us L29:       * cite26†Resources L30:       * cite27†Applications L31:     * cite28†Aluminum Wire L32:       * cite29†Contact Us L33:       * cite30†Resources L34:       * cite31†Applications L35:   * cite32†Where To Buy L36:   * cite33†Contact Us L37:   * cite34†Careers L38: 
+L39:     * cite35†Tuscaloosa L40:     * cite36†Fayette L41: 
+L42:   * cite37†Our Story L43:   * cite38†Blog / News L44:   * cite1†Language L45: 
+L46:     * cite39†English L47:     * cite40†Español L48:     * cite41†Français L49:     * cite42†Deutsch L50:     * cite43†Italiano L51:     * cite44†Português L52:     * cite45†Nederlands L53: # How to Choose the Right Screen Spline Size
+L54: 
+L55:   * cite46†Browse Products L56:   * cite8†Screening Quiz†screening.phifer.com L57:   * cite47†Resources L58:   * cite48†FAQ L59:   * cite49†Videos L60:   * cite50†Features L61:     * cite51†Durability L62:     * cite52†Pet Protection L63:     * cite53†Visibility L64:     * cite54†Bug Protection L65:     * cite55†Privacy L66:     * cite56†Sun Protection L67:   * cite57†Materials L68:     * cite58†Aluminum L69:     * cite59†Copper L70:     * cite60†Fiberglass L71:     * cite61†Polyester L72:     * cite62†Stainless Steel L73: Whether it’s your first time going the DIY route or you’re a seasoned veteran of multiple home improvement projects, it’s important to be accurate in your measurements so you don’t have to do the same work twice -- or spend time taking back materials that won’t work.
+L74: While measuring your screen doors, windows or any other area that needs to be screened seems like a fairly straightforward process, there are a few things that you might overlook, such as measuring for the spline that will secure your screen in the frame itself.
+L75: 
+L76: cite63†Image: Gray Spline L77: 
+L78: cite64†Image: Black Spline L79: ## What Is Window Screen Spline and How Is It Measured?
+L80: 
+L81: Spline is a type of vinyl cording that fixes the screening material into the frame. Spline is rolled into the grooves using a cite65†spline roller or cite66†screen mouse†www.youtube.com -- tools that are specifically designed to make it easier to press the spline into the grooves in a smooth, fluid motion.
+L82: Spline is measured by diameter, which determines the thickness of spline you’ll need to secure your screen to the frame. The charts below can show you which type of spline you should use for your screen. The spline itself is flexible and able to be rolled into grooves that are thinner than it is wide. This is to be sure the spline doesn’t pop out -- and your screen along with it!
+L83: ## Selecting Screening & Spline to Use with Common Frames: What Size Screen Spline Do I Need?
+L84:   * Measure the spline groove on the screen frame.
+L85:   * The spline size should match the spline groove width when using standard fiberglass or aluminum screening or when repairing a damaged screen with the same material. Refer to the chart below for product exceptions.
+L86:   * PetScreen^{®}, TuffScreen^{®}, SunTex^{®}, and Super Solar Screening require one size smaller spline due to the thickness of the fabric.
+L87:   * Spline sizes are shown in decimals to match fractional spline groove measurements in inches.
+L88: cite8†Not Sure What Screening You Need? Take Our Quiz†screening.phifer.com L89: 
+L90: Not all screen framing is the same. Channel size where spline will be rolled varies, so please measure accordingly. Below is a chart that offers suggestions for the size spline you will need based on channel dimensions.
+L91: Screening Types:  | 5/16” x ¾”Frame  | 7/16” x ¾”Frame  | 7/16” x 1” Frame
+L92: --- | --- | --- | ---
+L93: Standard Fiberglass Insect Screening  | .140 (9/64”)  | .140 (9/64”)  |
+L94: Aluminum Insect Screening  | .125 (⅛”)  | .125 (⅛”)  |
+L95: Pool and Patio Screening  | .140 (9/64”)  | .140 (9/64”)  |
+L96: No-See-Ums Screening  | .140 (9/64”)  | .140 (9/64”)  |
+L97: BetterVue  | .140 (9/64”)  | .140 (9/64”)  |
+L98: SunTex 80 Solar Screening  | .125 (⅛”)  | .125 (⅛”)  | .210 (7/32”)
+L99: SunTex 90 Solar Screening  | .125 (⅛”)  | .125 (⅛”)  | .210 (7/32”)
+L100: Super Solar Screening  | .125 (⅛”)  | .125 (⅛”)  | .210 (7/32”)
+L101: PetScreen or TuffScreen  | .125 (⅛”)  | .125 (⅛”)  | .210 (7/32”)
+L102: cite67†Download Spline Selection Chart L103: 
+L104: cite68†How to Replace a Window, Door or Patio Screen L105: ## Screen Spline Diameter Chart
+L106: 
+L107: Screening Types:  | Diameter in Inches  | Diameter in Millimeters
+L108: --- | --- | ---
+L109: .125  | 1/8  | 3.175
+L110: .140  | 9/64  | 3.556
+L111: .160  | 5/32  | 4.064
+L112: ~~ ~~.175  | 11/34  | 4.445
+L113: .190  | 3/16  | 4.826
+L114: .210  | 7/31  | 5.334
+L115: .220  | 14/64  | 5.588
+L116: .250  | 1/4  | 6.350
+L117: Flat Spline  | 3/8  | 9.525
+L118: 
+L119: cite69†Download Spline Diameter Chart L120: ## More Tips for Measuring Your Screen
+L121: 
+L122:   * Take note of any mounting hardware you may need, including tension springs, frame lineals, and corner brackets.
+L123:   * For more helpful tips on measuring different types of windows frames and more, cite70†check out our video tutorial.†www.youtube.com L124: ## Phifer: Quality Screening Products for Doors and Windows of All Sizes
+L125: 
+L126: Whether you’re installing brand new screening for an addition on your home, or cite71†replacing torn screen†www.youtube.com on your patio or a room in your home, Phifer has both the screen and resources to help make your DIY project as easy as possible.
+L127: Need some inspiration? Check out some of our cite49†DIY videos . Whether you decide to DIY, or leave it to the professionals, cite72†take our quiz†screening.phifer.com to find out which of our screening products is right for you. You can also use our cite73†screening selection guide to help make your decision.
+L128: Have any questions? cite33†Please contact us. We’d love to talk with you to learn more about the type of screening you’re looking for. We’d also like to help you decide which of our products will offer you and your family quality insect screening that meets your needs for years to come. We can even help you locate a Phifer retailer where you can cite7†find our products in stores or online.
+

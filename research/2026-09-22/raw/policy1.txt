@@ -1,0 +1,149 @@
+Page RPM - Google AdSense Help (https://support.google.com/adsense/answer/112030?hl=en)
+citeturn16search0 [wordlim: 200] Crawled: today; Page revenue per thousand impressions (RPM) is calculated by dividing your estimated earnings by the number of page views you received, then multiplying by 1000.
+
+# Page RPM
+
+Page revenue per thousand impressions (RPM) is calculated by dividing your estimated earnings by the number of page views you received, then multiplying by 1000.
+
+`Page RPM = (Estimated earnings / Number of page views) * 1000`
+
+For example, if you earned an estimated $0.15 from 25 page views, then your page RPM would equal ($0.15 / 25) * 1000, or $6.00.--------------------------------------------------------------------------------
+Revenue per thousand impressions (RPM) - Google AdSense Help (https://support.google.com/adsense/answer/190515?hl=en)
+citeturn16search1 [wordlim: 200] Crawled: yesterday; RPM doesn't represent how much you've actually earned; rather, it's calculated by dividing your estimated earnings by the number of page views, impressions, or queries you received, then multiplying by 1000. ...   * If you earned an estimated $180 from 45,000 ad impressions, your ad RPM would equal ($180 / 45,000) * 1000, or $4.00.
+
+# Revenue per thousand impressions (RPM)
+
+Revenue per 1000 impressions (RPM) represents the estimated earnings you'd accrue for every 1000 impressions you receive.
+
+RPM doesn't represent how much you've actually earned; rather, it's calculated by dividing your estimated earnings by the number of page views, impressions, or queries you received, then multiplying by 1000.
+
+Formula:
+`RPM = (Estimated earnings / Number of page views) * 1000`
+
+Examples:
+
+  * If you earned an estimated $0.15 from 25 page views, then your page RPM would equal ($0.15 / 25) * 1000, or $6.00.
+  * If you earned an estimated $180 from 45,000 ad impressions, your ad RPM would equal ($180 / 45,000) * 1000, or $4.00.
+
+RPM is a commonly used number in advertising programs. You may find it helpful for comparing revenue across different channels.--------------------------------------------------------------------------------
+Ad RPM - Google AdSense Help (https://support.google.com/adsense/answer/112032?hl=en)
+citeturn16search2 [wordlim: 200] Crawled: today; Ad revenue per thousand impressions (RPM) is calculated by dividing your estimated earnings by the number of ad impressions you received, then multiplying by 1000.
+
+# Ad RPM
+
+Ad revenue per thousand impressions (RPM) is calculated by dividing your estimated earnings by the number of ad impressions you received, then multiplying by 1000.
+
+`Ad RPM = (Estimated earnings / Ad impressions) * 1000`
+
+For example, if you earned an estimated $180 from 45,000 ad impressions, your ad RPM would equal ($180 / 45,000) * 1000, or $4.00.
+
+Note: This metric is only available under the "Advanced" metric family tab. Learn more about picking metrics for your report.--------------------------------------------------------------------------------
+Query RPM - Google AdSense Help (https://support.google.com/adsense/answer/1064709?hl=en)
+citeturn16search3 [wordlim: 200] Crawled: yesterday; Query revenue per thousand impressions (RPM) is calculated by dividing your estimated earnings by the number of queries reported, then multiplying by 1000.
+
+# Query RPM
+
+Query revenue per thousand impressions (RPM) is calculated by dividing your estimated earnings by the number of queries reported, then multiplying by 1000.
+
+`Query RPM = (Estimated earnings / Number of queries) * 1000`
+
+For example, if you earned an estimated $60 from 15,000 queries, your query RPM would equal ($60 / 15,000) * 1000, or $4.00.--------------------------------------------------------------------------------
+Ad request RPM - Google AdSense Help (https://support.google.com/adsense/answer/1082522?hl=en)
+citeturn16search4 [wordlim: 200] Crawled: 2 days ago; Ad request revenue per thousand impressions (RPM) is calculated by dividing your estimated earnings by the number of ad requests you made, then multiplying by 1000.
+
+# Ad request RPM
+
+Ad request revenue per thousand impressions (RPM) is calculated by dividing your estimated earnings by the number of ad requests you made, then multiplying by 1000.
+
+`Ad request RPM = (Estimated earnings / Number of ad requests) * 1000`
+
+For example, if you earned an estimated $60 from 15,000 ad requests, your ad request RPM would equal ($60 / 15,000) * 1000, or $4.00.
+
+Note: This metric is only available under the "Advanced" metric family tab. Learn more about picking metrics for your report.--------------------------------------------------------------------------------
+Ad session RPM - Google AdSense Help (https://support.google.com/adsense/answer/6373314?hl=en)
+citeturn16search5 [wordlim: 200] Crawled: today; # Ad session RPMNote: We'll be retiring session-related metrics in AdSense from September 2025.
+
+# Ad session RPM
+
+Note: We'll be retiring session-related metrics in AdSense from September 2025.
+
+The average earnings per 1000 ad sessions.
+
+`Ad session RPM = (Estimated earnings / Number of ad sessions) * 1000`
+
+Note this metric only counts a percentage of your AdSense for content traffic. You can use Ad sessions measurable to determine the percentage of your traffic that AdSense was able to measure.--------------------------------------------------------------------------------
+Ad RPM - Google AdSense Help (https://support.google.com/adsense/answer/112032?hl=en-EN)
+citeturn16search6 [wordlim: 200] Crawled: 2 months ago; Google AdSense HelpPlease make sure to visit Your AdSense Page where you can find personalized information about your account to help you succeed with AdSense. ... Ad revenue per thousand impressions (RPM) is calculated by dividing your estimated earnings by the number of ad impressions you received, then multiplying by 1000.
+Google AdSense Help
+
+Please make sure to visit Your AdSense Page where you can find personalized information about your account to help you succeed with AdSense.
+
+[Button: ]
+
+# Ad RPM
+
+Ad revenue per thousand impressions (RPM) is calculated by dividing your estimated earnings by the number of ad impressions you received, then multiplying by 1000.
+
+`Ad RPM = (Estimated earnings / Ad impressions) * 1000`
+
+For example, if you earned an estimated $180 from 45,000 ad impressions, your ad RPM would equal ($180 / 45,000) * 1000, or $4.00.
+
+Note: This metric is only available under the "Advanced" metric family tab. Learn more about picking metrics for your report.
+--------------------------------------------------------------------------------
+Funnel RPM - Google AdSense Help (https://support.google.com/adsense/answer/11585979?hl=en)
+citeturn16search7 [wordlim: 200] Crawled: today; # Funnel RPMAd revenue per thousand funnel impressions is calculated by dividing your estimated earnings resulting from a funnel request by the number of funnel impressions you received, then multiplying by 1000.
+
+# Funnel RPM
+
+Ad revenue per thousand funnel impressions is calculated by dividing your estimated earnings resulting from a funnel request by the number of funnel impressions you received, then multiplying by 1000.
+
+`Funnel RPM = (Estimated earnings resulting from the funnel / Funnel impressions) * 1000`
+
+Learn more about the funnel for a related search unit.
+
+Note: This metric is not available for all search and ad intents formats.--------------------------------------------------------------------------------
+RPM stránky - Nápověda Google AdSense (https://support.google.com/adsense/answer/112030?hl=cs)
+citeturn16search8 [wordlim: 200] Crawled: yesterday; # RPM stránky
+
+# RPM stránky
+
+Příjmy za tisíc zobrazení (RPM) stránky se počítají tak, že se odhadované příjmy vydělí počtem zobrazení stránky a vynásobí se číslem 1000.
+
+`RPM stránky = (odhadované příjmy/počet zobrazení stránky) × 1000`
+
+Pokud jste například odhadem vydělali 0,15 USD za 25 zobrazení stránky, bude RPM stránky rovno (0,15 USD/25) × 1000, tj. 6,00 USD.--------------------------------------------------------------------------------
+Ad RPM - Google AdSense Help (https://support.google.com/adsense/answer/112032?hl=en-GB)
+citeturn16search9 [wordlim: 200] Crawled: yesterday; Ad revenue per thousand impressions (RPM) is calculated by dividing your estimated earnings by the number of ad impressions that you received, then multiplying by 1000.
+
+# Ad RPM
+
+Ad revenue per thousand impressions (RPM) is calculated by dividing your estimated earnings by the number of ad impressions that you received, then multiplying by 1000.
+
+`Ad RPM = (Estimated earnings / Ad impressions) * 1000`
+
+For example, if you earned an estimated £180 from 45,000 ad impressions, your ad RPM would equal (£180 / 45,000) * 1,000, or £4.00.
+
+Note: This metric is only available under the 'Advanced' metric family tab. Learn more about picking metrics for your report.--------------------------------------------------------------------------------
+RPM stranice - Google AdSense Pomoć (https://support.google.com/adsense/answer/112030?hl=hr)
+citeturn16search10 [wordlim: 200] Crawled: yesterday; # RPM stranice
+
+# RPM stranice
+
+Prihod stranice po tisuću pojavljivanja (RPM) izračunava se dijeljenjem procijenjene zarade s brojem zabilježenih prikaza stranice koje ste ostvarili te množenjem s 1000.
+
+`RPM stranice = (procijenjena zarada/broj prikaza stranice) * 1000`
+
+Primjerice, ako ste na 25 prikaza stranice zaradili procijenjenih 0,15 USD, RPM stranice jednak je (0,15 USD/25) * 1000, odnosno 6,00 USD.--------------------------------------------------------------------------------
+Ad request RPM - Google AdSense Help (https://support.google.com/adsense/answer/1082522?hl=EN-GB)
+citeturn16search11 [wordlim: 200] Crawled: 2 months ago; Ad request revenue per thousand impressions (RPM) is calculated by dividing your estimated earnings by the number of ad requests that you made, then multiplying by 1000.
+
+# Ad request RPM
+
+Ad request revenue per thousand impressions (RPM) is calculated by dividing your estimated earnings by the number of ad requests that you made, then multiplying by 1000.
+
+`Ad request RPM = (Estimated earnings / Number of ad requests) * 1000`
+
+For example, if you earned an estimated £60 from 15,000 ad requests, then your ad request RPM would equal (£60/15,000) * 1000, or £4.00.
+
+Note: This metric is only available under the 'Advanced' metric family tab. Learn more about picking metrics for your report.
+
